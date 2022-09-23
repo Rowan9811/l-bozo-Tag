@@ -1,3 +1,5 @@
+# getting the source code
+create a ticket in my Discord
 # downloading
  go to tag's use WinRAR or 7-Zip to extract
  
