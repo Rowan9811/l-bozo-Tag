@@ -1,5 +1,5 @@
 # downloading
- go to tag's use WinRAR 7-Zip to extract
+ go to tag's use WinRAR or 7-Zip to extract
  
 # website
 https://rowietrek.wixsite.com/85916
