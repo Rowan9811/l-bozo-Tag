@@ -1,5 +1,5 @@
 # getting the source code
-create a ticket in my Discord
+https://terabox.com/s/1YOpIB8upmui7oIywowrEQA
 # downloading
  go to tag's use WinRAR or 7-Zip to extract
  
